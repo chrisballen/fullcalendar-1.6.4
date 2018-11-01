@@ -1,9 +1,9 @@
 {
-  "name": "fullcalendar",
+  "name": "fullcalendar.1.6.4",
   "version": "1.6.4",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arshaw/fullcalendar.git"
+    "url": "https://github.com/chrisballen/fullcalendar-1.6.4.git"
   },
   "devDependencies": {
     "underscore": "~1.4.4",
